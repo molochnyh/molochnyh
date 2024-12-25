@@ -1,6 +1,4 @@
 ## About me
-I'm a middle data analyst
-My education: Associate degree in railroad operations
 
 |          | Tech stack            |
 |:-:|-|
