@@ -59,7 +59,7 @@
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=phantom-dreamer&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/phantom-dreamer)
+[![Profile Views](https://komarev.com/ghpvc/?username=molochnyh&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/molochnyh)
 
 **"Turning data into insights, one algorithm at a time"** 📊✨
 
